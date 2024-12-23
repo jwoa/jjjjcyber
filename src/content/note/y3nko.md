@@ -7,10 +7,10 @@ publishDate: "2024-12-14T11:23:00Z"
 This website will serve as a singular location for people to book tickets for
 events, restaurants, and places to stay in Ghana. 
 
-https://y3nko.com
+https://y3nko.com <-- will be online soon, in development
 
 
-## Backstory
+### Backstory
 
 I love my motherland of Ghana. In recent years, a lot of people have come to love it as well.
 It's become a popular spot for people to travel to, especially after the year of return. 

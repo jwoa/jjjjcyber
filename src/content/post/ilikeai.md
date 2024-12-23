@@ -4,6 +4,7 @@ publishDate: "22 December 2024"
 description: "An example post for Astro Cactus, detailing how to add a custom social image card in the frontmatter"
 tags: ["example", "blog", "image"]
 ogImage: "/social-card.png"
+draft: true
 ---
 
 ## Adding your own social image to a post

@@ -6,9 +6,9 @@ publishDate: "2024-12-14T11:23:00Z"
 
 I used Claude to look at my ads and help me scale them, it actually worked and then I used an app called TripleWhale to track the metrics. I wanted some more features so I decided to build an app that had it all.
 
-https://stackberries.com
+https://stackberries.com <-- in development
 
-## Backstory
+### Backstory
 
 I've started running an e-commerce business this year. I have worked in the space for quite some time outside of my professional career doing theme development for sites,
 

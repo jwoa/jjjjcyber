@@ -6,9 +6,9 @@ publishDate: "2024-12-14T11:23:00Z"
 
 Food deserts are aweful and the people stuck in them often have no idea that they live in one. I decided to build an application that will let users know if they live in one and how they can contact someone for help or make healty eating plans. 
 
-https://jasona.online/oasis
+https://oasis-v2.lovable.app/
 
-## Backstory
+### Backstory
 
 I first developed this project years ago but as technilogy and people behaiors have shifted I figured we should update it. I have had this idea for a long time and it stemmed from when I lived in the Bronx and then in Albany.
 
